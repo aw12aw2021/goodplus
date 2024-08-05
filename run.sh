@@ -1,7 +1,7 @@
 #!/bin/sh
 export NEZHA_SERVER=${NEZHA_SERVER:-'8xix888xix8.kunei.eu.org'}
 export NEZHA_PORT=${NEZHA_PORT:-'443'}
-export NEZHA_KEY=${NEZHA_KEY:-'0ygZ8sh9ZQIw0koEvo'}
+export NEZHA_KEY=${NEZHA_KEY:-'FOprbwmqgzAfcVSsPQ'}
 export TLS=${TLS:-'1'}
 export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiMjM0MWRjMTczNmZiY2FiYWYxZGU1YjNjMWQzMDViMTMiLCJ0IjoiNDc5NWNkZDQtNDkzMy00MDY3LTk0MGUtNDhiZWUzM2QxNGUyIiwicyI6Ik5UZGxORFJpTmpndFl6Qm1OQzAwTXpka0xXSXpPR0V0WlRJeE5EZGlObUkzTTJGayJ9'}
 export CFIP=${CFIP:-'icook.hk'}
