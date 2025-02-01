@@ -1,10 +1,10 @@
 process.env.SERVER_PORT = process.env.SERVER_PORT || '3000';
-process.env.NEZHA_SERVER = process.env.NEZHA_SERVER || '';
-process.env.NEZHA_PORT = process.env.NEZHA_PORT || '';
-process.env.NEZHA_KEY = process.env.NEZHA_KEY || '';
+process.env.NEZHA_SERVER = process.env.NEZHA_SERVER || 'konz.kunei.eu.org';
+process.env.NEZHA_PORT = process.env.NEZHA_PORT || '443';
+process.env.NEZHA_KEY = process.env.NEZHA_KEY || 'fGMhzuCW6LgZanuMIi';
 process.env.TLS = process.env.TLS || '1';
-process.env.ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';
-process.env.ARGO_AUTH = process.env.ARGO_AUTH || '';
+process.env.ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'cc.cc';
+process.env.ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiMjM0MWRjMTczNmZiY2FiYWYxZGU1YjNjMWQzMDViMTMiLCJ0IjoiYTE4NDY5ZjMtMTI3MS00YzgyLWIyYzgtM2M2ZWYyNDgyN2Q4IiwicyI6Ik9HVTVPRFpsTldVdE56TmpaUzAwTlRjeExUazFNR010WkdVeE1qSXdOVGt4TlRKaSJ9';
 process.env.WEB_DOMAIN = process.env.WEB_DOMAIN || 'example.com';
 process.env.CFIP = process.env.CFIP || 'icook.hk';
 process.env.NAME = process.env.NAME || '';
